@@ -18,7 +18,8 @@
       "id": 3,
       "name": "user3",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": "active"
     },
     {
       "id": 4,
@@ -30,7 +31,8 @@
       "id": 5,
       "name": "user5",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": "active"
     },
     {
       "id": 6,
@@ -42,7 +44,8 @@
       "id": 7,
       "name": "user7",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": "active"
     },
     {
       "id": 8,
@@ -54,7 +57,8 @@
       "id": 9,
       "name": "user9",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": "active"
     },
     {
       "id": 10,
