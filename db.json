@@ -5,7 +5,8 @@
       "id": 1,
       "name": "user1",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": "active"
     },
     {
       "id": 2,
