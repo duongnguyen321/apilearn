@@ -6,196 +6,210 @@
       "name": "user1",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 2,
       "name": "user2",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 3,
       "name": "user3",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 4,
       "name": "user4",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 5,
       "name": "user5",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 6,
       "name": "user6",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 7,
       "name": "user7",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 8,
       "name": "user8",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 9,
       "name": "user9",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 10,
       "name": "user10",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 11,
       "name": "user11",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 12,
       "name": "user12",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 13,
       "name": "user13",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 14,
       "name": "user14",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 15,
       "name": "user115",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 16,
       "name": "user16",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 17,
       "name": "user17",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 18,
       "name": "user18",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 19,
       "name": "user19",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 20,
       "name": "user20",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 21,
       "name": "user21",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 22,
       "name": "user22",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 23,
       "name": "user23",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 24,
       "name": "user24",
       "email": "duongcoilc2004@gmail.com",
       "phone": "0986921104",
-      "status": "active"
+      "status": 1
     },
     {
       "id": 25,
       "name": "user225",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 26,
       "name": "user26",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 27,
       "name": "user27",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 28,
       "name": "user28",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 29,
       "name": "user29",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     },
     {
       "id": 30,
       "name": "user30",
       "email": "duongcoilc2004@gmail.com",
-      "phone": "0986921104"
+      "phone": "0986921104",
+      "status": 0
     }
   ],
   "users": [
