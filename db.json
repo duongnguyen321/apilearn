@@ -219,5 +219,22 @@
       "email": "duongcoilc2004@gmail.com",
       "password": "admin"
     }
+  ],
+  "doLists": [
+    {
+      "id": 1,
+      "name": "test",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "isCompleted": false
+    }
   ]
 }
